@@ -1,4 +1,4 @@
-# Descriptiion of the project
+# Description of the project
 
 We all know that the importance of the traffic lights is to control the traffic of vehicles on the streets and avenues, however the waiting time may be painful, entering in a street full of traffic lights and arriving at the beginning of a red light every single time, is different than arriving in a green light every time. This issue made us think how we could estimate the best itinerary (if it exists) to take by a driver of a vehicle, and could it really change or help by reducing the impact.
 
